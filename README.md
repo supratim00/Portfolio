@@ -1,4 +1,4 @@
-# Shubham's Portfolio!
+# Supratim's Portfolio!
 
 > An idiot admires complexity an genius admires simplicity.
 
